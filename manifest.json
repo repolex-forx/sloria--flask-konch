@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "sloria",
+  "repo": "flask-konch",
+  "versions": [
+    {
+      "commit": "e194dbaa1777c5eb20cf7b848089f03c8136d638",
+      "parsed_at": "2026-10-18T08:50:29.073552+00:00",
+      "filetree": "filetree/e194dbaa1777c5eb20cf7b848089f03c8136d638.nq.gz",
+      "blobs": [
+        "blob/3302ba0b681c2c27d09962ca8edf8631866a8786.nq.gz",
+        "blob/bfde558a31756c5af6c5de53fcfc871ae555d535.nq.gz",
+        "blob/bdf6747a2699bc8cc328d72c3ce5fc283076ab73.nq.gz",
+        "blob/d6bd0dd3ab89ea4e21ac1b4a5c9c2e03cf86660d.nq.gz",
+        "blob/195395c2f298612920b1616af0d98be0496278b6.nq.gz",
+        "blob/3aac49c6a016a031088beb6db22930e6939869d6.nq.gz",
+        "blob/a04147cae415cb76930d95a7f3d03f5575cd0816.nq.gz",
+        "blob/ee5c2750aad201623487d0d5ed673e89743252d5.nq.gz",
+        "blob/cae4f39466f4e0149b5f9da229e4bfe28c7ea58a.nq.gz",
+        "blob/6693c94e2bc166f0643fc530c0b05c0e637b3220.nq.gz",
+        "blob/311a8756ed9a636fe0f08c2e00f10f936961857a.nq.gz",
+        "blob/bbb2905d0d501a0916d673b29657f6caac883a2b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/d2a38fc0424969003956fc8e8e5e65512ca119d1.nq.gz",
+        "blob/5c869776234cd0eb4ea0d968ed4017c91d23b8a7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
